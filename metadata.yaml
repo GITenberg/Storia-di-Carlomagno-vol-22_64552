@@ -1,0 +1,36 @@
+_repo: Storia-di-Carlomagno-vol-22_64552
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Toccagni, Luigi
+    gutenberg_agent_id: '52952'
+    url: http://www.gutenberg.org/2009/agents/52952
+creator:
+  author:
+    agent_name: Capefigue, M. (Jean Baptiste Honoré Raymond)
+    aliases:
+    - Capefigue, M. (Jean Baptiste Honore Raymond)
+    - Capefigue, Jean Baptiste Honoré Raymond
+    birthdate: 1802
+    deathdate: 1872
+    gutenberg_agent_id: '40330'
+    url: http://www.gutenberg.org/2009/agents/40330
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean-Baptiste_Capefigue
+    - https://fr.wikipedia.org/wiki/Jean-Baptiste_Capefigue
+description: ''
+gutenberg_issued: '2021-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64552'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charlemagne, Emperor, 742-814'
+- !lcc 'DC'
+- !lcsh 'France -- History -- To 987'
+- GITenberg
+title: Storia di Carlomagno vol. 2/2
+url: http://www.gutenberg.org/ebooks/64552
