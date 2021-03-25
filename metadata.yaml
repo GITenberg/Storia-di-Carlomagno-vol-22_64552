@@ -5,6 +5,9 @@ contributor:
     agent_name: Toccagni, Luigi
     gutenberg_agent_id: '52952'
     url: http://www.gutenberg.org/2009/agents/52952
+covers:
+- cover_type: archival
+  image_path: 64552-h/images/cover.jpg
 creator:
   author:
     agent_name: Capefigue, M. (Jean Baptiste Honoré Raymond)
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean-Baptiste_Capefigue
     - https://fr.wikipedia.org/wiki/Jean-Baptiste_Capefigue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64552#Storia-di-Carlomagno-vol-22
 gutenberg_issued: '2021-02-14'
 gutenberg_type: Text
 identifiers:
